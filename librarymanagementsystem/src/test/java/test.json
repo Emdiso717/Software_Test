@@ -1,0 +1,542 @@
+[
+    {
+        "id": "1",
+        "category": "Computer Science",
+        "title": "Computer Networking",
+        "press": "Press-E",
+        "publishyear": "1998",
+        "author": "Immortal",
+        "price": "215.12",
+        "stock": "83"
+    },
+    {
+        "id": "2",
+        "category": "History",
+        "title": "Gone with the wind",
+        "press": "Press-D",
+        "publishyear": "2017",
+        "author": "Nonehyo",
+        "price": "3.97",
+        "stock": "5"
+    },
+    {
+        "id": "3",
+        "category": "Nature",
+        "title": "Operating System",
+        "press": "Press-D",
+        "publishyear": "2001",
+        "author": "ZaiZai",
+        "price": "24.0",
+        "stock": "42"
+    },
+    {
+        "id": "4",
+        "category": "Magazine",
+        "title": "Miserable World",
+        "press": "Press-D",
+        "publishyear": "2003",
+        "author": "DaDa",
+        "price": "221.51",
+        "stock": "45"
+    },
+    {
+        "id": "5",
+        "category": "Horror",
+        "title": "The Old Man and the Sea",
+        "press": "Press-B",
+        "publishyear": "2016",
+        "author": "DouDou",
+        "price": "33.91",
+        "stock": "63"
+    },
+    {
+        "id": "6",
+        "category": "Novel",
+        "title": "Miserable World",
+        "press": "Press-G",
+        "publishyear": "2019",
+        "author": "Erica",
+        "price": "193.0",
+        "stock": "73"
+    },
+    {
+        "id": "7",
+        "category": "Horror",
+        "title": "How steel is made",
+        "press": "Press-E",
+        "publishyear": "2005",
+        "author": "Yuuku",
+        "price": "188.03",
+        "stock": "29"
+    },
+    {
+        "id": "8",
+        "category": "Horror",
+        "title": "The Old Man and the Sea",
+        "press": "Press-H",
+        "publishyear": "2012",
+        "author": "DaDa",
+        "price": "187.54",
+        "stock": "80"
+    },
+    {
+        "id": "9",
+        "category": "Philosophy",
+        "title": "Database System Concepts",
+        "press": "Press-H",
+        "publishyear": "2016",
+        "author": "ColaOtaku",
+        "price": "208.46",
+        "stock": "33"
+    },
+    {
+        "id": "10",
+        "category": "Autobiography",
+        "title": "How steel is made",
+        "press": "Press-E",
+        "publishyear": "2015",
+        "author": "Hgs",
+        "price": "229.92",
+        "stock": "97"
+    },
+    {
+        "id": "11",
+        "category": "Horror",
+        "title": "Computer Networking",
+        "press": "Press-E",
+        "publishyear": "2019",
+        "author": "Nonehyo",
+        "price": "103.06",
+        "stock": "30"
+    },
+    {
+        "id": "12",
+        "category": "Nature",
+        "title": "The Old Man and the Sea",
+        "press": "Press-H",
+        "publishyear": "2020",
+        "author": "ColaOtaku",
+        "price": "65.92",
+        "stock": "23"
+    },
+    {
+        "id": "13",
+        "category": "Horror",
+        "title": "Computer Networking",
+        "press": "Press-B",
+        "publishyear": "2005",
+        "author": "Immortal",
+        "price": "136.87",
+        "stock": "29"
+    },
+    {
+        "id": "14",
+        "category": "Others",
+        "title": "Operating System",
+        "press": "Press-E",
+        "publishyear": "2015",
+        "author": "Authentic",
+        "price": "137.54",
+        "stock": "6"
+    },
+    {
+        "id": "15",
+        "category": "Novel",
+        "title": "Analysis of Dreams",
+        "press": "Press-F",
+        "publishyear": "2011",
+        "author": "Nonehyo",
+        "price": "113.36",
+        "stock": "77"
+    },
+    {
+        "id": "16",
+        "category": "Novel",
+        "title": "How steel is made",
+        "press": "Press-D",
+        "publishyear": "2017",
+        "author": "Fubuki",
+        "price": "106.81",
+        "stock": "94"
+    },
+    {
+        "id": "17",
+        "category": "other",
+        "title": "hhh",
+        "press": "Press-K",
+        "publishyear": "2000",
+        "author": "Soo",
+        "price": "55.0",
+        "stock": "48"
+    },
+    {
+        "id": "18",
+        "category": "History",
+        "title": "Le Petit Prince",
+        "press": "Press-G",
+        "publishyear": "2018",
+        "author": "Fubuki",
+        "price": "51.78",
+        "stock": "12"
+    },
+    {
+        "id": "19",
+        "category": "History",
+        "title": "Computer Networking",
+        "press": "Press-B",
+        "publishyear": "2005",
+        "author": "Hgs",
+        "price": "147.01",
+        "stock": "58"
+    },
+    {
+        "id": "20",
+        "category": "Dictionary",
+        "title": "Le Petit Prince",
+        "press": "Press-D",
+        "publishyear": "2003",
+        "author": "DouDou",
+        "price": "107.1",
+        "stock": "96"
+    },
+    {
+        "id": "21",
+        "category": "Dictionary",
+        "title": "Operating System",
+        "press": "Press-B",
+        "publishyear": "2015",
+        "author": "ZaiZai",
+        "price": "181.13",
+        "stock": "85"
+    },
+    {
+        "id": "22",
+        "category": "Horror",
+        "title": "Eugenie Grandet",
+        "press": "Press-A",
+        "publishyear": "2022",
+        "author": "Yuuku",
+        "price": "25.74",
+        "stock": "2"
+    },
+    {
+        "id": "23",
+        "category": "Horror",
+        "title": "Algorithms",
+        "press": "Press-B",
+        "publishyear": "2003",
+        "author": "DaDa",
+        "price": "0.68",
+        "stock": "90"
+    },
+    {
+        "id": "24",
+        "category": "Nature",
+        "title": "C++ Primer",
+        "press": "Press-C",
+        "publishyear": "2016",
+        "author": "DouDou",
+        "price": "61.97",
+        "stock": "91"
+    },
+    {
+        "id": "25",
+        "category": "Magazine",
+        "title": "Gone with the wind",
+        "press": "Press-E",
+        "publishyear": "2016",
+        "author": "Nonehyo",
+        "price": "147.85",
+        "stock": "94"
+    },
+    {
+        "id": "26",
+        "category": "Others",
+        "title": "Compiler Designs",
+        "press": "Press-G",
+        "publishyear": "2018",
+        "author": "Erica",
+        "price": "70.1",
+        "stock": "91"
+    },
+    {
+        "id": "27",
+        "category": "Magazine",
+        "title": "C++ Primer",
+        "press": "Press-C",
+        "publishyear": "2012",
+        "author": "ColaOtaku",
+        "price": "154.98",
+        "stock": "36"
+    },
+    {
+        "id": "28",
+        "category": "Others",
+        "title": "Database System Concepts",
+        "press": "Press-E",
+        "publishyear": "2004",
+        "author": "Authentic",
+        "price": "41.94",
+        "stock": "37"
+    },
+    {
+        "id": "29",
+        "category": "Autobiography",
+        "title": "Compiler Designs",
+        "press": "Press-C",
+        "publishyear": "2012",
+        "author": "Immortal",
+        "price": "11.72",
+        "stock": "53"
+    },
+    {
+        "id": "30",
+        "category": "Horror",
+        "title": "Analysis of Dreams",
+        "press": "Press-A",
+        "publishyear": "2015",
+        "author": "ZaiZai",
+        "price": "169.15",
+        "stock": "69"
+    },
+    {
+        "id": "31",
+        "category": "Dictionary",
+        "title": "Analysis of Dreams",
+        "press": "Press-A",
+        "publishyear": "2003",
+        "author": "Nonehyo",
+        "price": "110.08",
+        "stock": "32"
+    },
+    {
+        "id": "32",
+        "category": "Nature",
+        "title": "The Metamorphosis",
+        "press": "Press-C",
+        "publishyear": "2016",
+        "author": "Immortal",
+        "price": "62.48",
+        "stock": "6"
+    },
+    {
+        "id": "33",
+        "category": "History",
+        "title": "Algorithms",
+        "press": "Press-E",
+        "publishyear": "2011",
+        "author": "Immortal",
+        "price": "33.94",
+        "stock": "0"
+    },
+    {
+        "id": "34",
+        "category": "Computer Science",
+        "title": "Database System Designs",
+        "press": "Press-F",
+        "publishyear": "2008",
+        "author": "Hgs",
+        "price": "1.84",
+        "stock": "30"
+    },
+    {
+        "id": "35",
+        "category": "Autobiography",
+        "title": "Le Petit Prince",
+        "press": "Press-C",
+        "publishyear": "2015",
+        "author": "Hgs",
+        "price": "67.47",
+        "stock": "75"
+    },
+    {
+        "id": "36",
+        "category": "Novel",
+        "title": "Analysis of Dreams",
+        "press": "Press-C",
+        "publishyear": "2015",
+        "author": "Fubuki",
+        "price": "97.93",
+        "stock": "47"
+    },
+    {
+        "id": "37",
+        "category": "Philosophy",
+        "title": "Operating System",
+        "press": "Press-A",
+        "publishyear": "2020",
+        "author": "Coco",
+        "price": "86.12",
+        "stock": "18"
+    },
+    {
+        "id": "38",
+        "category": "Nature",
+        "title": "C++ Primer",
+        "press": "Press-F",
+        "publishyear": "2014",
+        "author": "Hgs",
+        "price": "203.81",
+        "stock": "3"
+    },
+    {
+        "id": "39",
+        "category": "Autobiography",
+        "title": "Compiler Designs",
+        "press": "Press-B",
+        "publishyear": "2016",
+        "author": "SoonWhy",
+        "price": "112.88",
+        "stock": "0"
+    },
+    {
+        "id": "40",
+        "category": "Dictionary",
+        "title": "Algorithms",
+        "press": "Press-F",
+        "publishyear": "2020",
+        "author": "SoonWhy",
+        "price": "104.56",
+        "stock": "98"
+    },
+    {
+        "id": "41",
+        "category": "Magazine",
+        "title": "C++ Primer",
+        "press": "Press-E",
+        "publishyear": "2006",
+        "author": "DaDa",
+        "price": "55.45",
+        "stock": "5"
+    },
+    {
+        "id": "42",
+        "category": "Novel",
+        "title": "Le Petit Prince",
+        "press": "Press-A",
+        "publishyear": "2001",
+        "author": "Erica",
+        "price": "80.49",
+        "stock": "33"
+    },
+    {
+        "id": "43",
+        "category": "Nature",
+        "title": "Database System Concepts",
+        "press": "Press-G",
+        "publishyear": "2019",
+        "author": "ColaOtaku",
+        "price": "218.26",
+        "stock": "25"
+    },
+    {
+        "id": "44",
+        "category": "Philosophy",
+        "title": "Database System Concepts",
+        "press": "Press-B",
+        "publishyear": "2013",
+        "author": "ColaOtaku",
+        "price": "128.75",
+        "stock": "72"
+    },
+    {
+        "id": "46",
+        "category": "Autobiography",
+        "title": "How steel is made",
+        "press": "Press-G",
+        "publishyear": "2003",
+        "author": "ColaOtaku",
+        "price": "200.61",
+        "stock": "15"
+    },
+    {
+        "id": "47",
+        "category": "Others",
+        "title": "Gone with the wind",
+        "press": "Press-E",
+        "publishyear": "2022",
+        "author": "Nonehyo",
+        "price": "198.48",
+        "stock": "3"
+    },
+    {
+        "id": "49",
+        "category": "Others",
+        "title": "Database System Concepts",
+        "press": "Press-E",
+        "publishyear": "2002",
+        "author": "Nonehyo",
+        "price": "34.35",
+        "stock": "43"
+    },
+    {
+        "id": "50",
+        "category": "Horror",
+        "title": "Miserable World",
+        "press": "Press-G",
+        "publishyear": "2004",
+        "author": "Erica",
+        "price": "35.9",
+        "stock": "14"
+    },
+    {
+        "id": "60",
+        "category": "12",
+        "title": "132",
+        "press": "132",
+        "publishyear": "32",
+        "author": "123",
+        "price": "1.0",
+        "stock": "1"
+    },
+    {
+        "id": "62",
+        "category": "1",
+        "title": "1",
+        "press": "1",
+        "publishyear": "1",
+        "author": "1",
+        "price": "1.0",
+        "stock": "1"
+    },
+    {
+        "id": "68",
+        "category": "1",
+        "title": "11",
+        "press": "1",
+        "publishyear": "1",
+        "author": "1",
+        "price": "1.0",
+        "stock": "1"
+    },
+    {
+        "id": "69",
+        "category": "11",
+        "title": "111",
+        "press": "11122",
+        "publishyear": "112",
+        "author": "2の23",
+        "price": "214.0",
+        "stock": "213"
+    },
+    {
+        "id": "70",
+        "category": "32342",
+        "title": "324",
+        "press": "3242",
+        "publishyear": "32432",
+        "author": "324",
+        "price": "34324.0",
+        "stock": "3223"
+    },
+    {
+        "id": "71",
+        "category": "1",
+        "title": "22",
+        "press": "2",
+        "publishyear": "2",
+        "author": "2",
+        "price": "2.0",
+        "stock": "2"
+    }
+]
